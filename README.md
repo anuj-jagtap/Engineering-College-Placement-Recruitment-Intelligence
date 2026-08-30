@@ -98,7 +98,7 @@ This project therefore addresses the following question:
 
 ---
 
-# 📊 Dataset Overview
+# Dataset Overview
 
 The final analytical dataset contains:
 
@@ -136,4 +136,13 @@ Final analytical dataset:
 ```text
 22,386 rows × 20 columns
 
+---
+
+# Project Information
+
+Prepared by: Anuj Jagtap
+
+Organization: Analytics Career Connect
+
+Project: Engineering College Placement & Recruitment Intelligence
 
