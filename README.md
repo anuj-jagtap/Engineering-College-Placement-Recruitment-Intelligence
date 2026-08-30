@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Engineering college placement outcomes vary considerably across branches,
 institutional tiers, states and institutional characteristics.
@@ -40,7 +40,7 @@ actionable intelligence for:
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Engineering colleges may differ significantly in their placement outcomes,
 industry exposure and graduate employability.
@@ -56,7 +56,7 @@ This project therefore addresses the following question:
 
 ---
 
-# 🔎 Key Business Questions
+# Key Business Questions
 
 ### Overall Performance
 
@@ -116,7 +116,7 @@ information related to curriculum, recruiter demand and skill requirements.
 
 ---
 
-# 🧹 Data Preparation
+# Data Preparation
 
 The data preparation process included:
 
@@ -135,3 +135,5 @@ Final analytical dataset:
 
 ```text
 22,386 rows × 20 columns
+
+
